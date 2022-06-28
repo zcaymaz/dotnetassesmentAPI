@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAKyB2q9eXz23UMC+ou6hh1OrAjkqdJm9oaCec09ohdjeiKTXOiUoL15Lh5ki5r9nD+/7h+ETA0LCwCXl2bMFQ==",
+  "dgSpecHash": "eJV/6P7biRFaOQne6IxaG9Ual0eypuAxBkwfACWv0twzOzLmpmopyV7VkmQ3XCHUCO8v8tcAuwohiOG1XyraEw==",
   "success": true,
-  "projectFilePath": "/Users/zcaymaz/Desktop/projects/todo-mw/todo-mw.csproj",
+  "projectFilePath": "/Users/zcaymaz/Desktop/projects/dotnetassesmentAPI/todo-mw.csproj",
   "expectedPackageFiles": [
     "/Users/zcaymaz/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.6/microsoft.aspnetcore.jsonpatch.6.0.6.nupkg.sha512",
     "/Users/zcaymaz/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.6/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.6.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zcaymaz/Desktop/projects/todo-mw/todo-mw.csproj": {}
+    "/Users/zcaymaz/Desktop/projects/dotnetassesmentAPI/todo-mw.csproj": {}
   },
   "projects": {
-    "/Users/zcaymaz/Desktop/projects/todo-mw/todo-mw.csproj": {
+    "/Users/zcaymaz/Desktop/projects/dotnetassesmentAPI/todo-mw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zcaymaz/Desktop/projects/todo-mw/todo-mw.csproj",
+        "projectUniqueName": "/Users/zcaymaz/Desktop/projects/dotnetassesmentAPI/todo-mw.csproj",
         "projectName": "todo-mw",
-        "projectPath": "/Users/zcaymaz/Desktop/projects/todo-mw/todo-mw.csproj",
+        "projectPath": "/Users/zcaymaz/Desktop/projects/dotnetassesmentAPI/todo-mw.csproj",
         "packagesPath": "/Users/zcaymaz/.nuget/packages/",
-        "outputPath": "/Users/zcaymaz/Desktop/projects/todo-mw/obj/",
+        "outputPath": "/Users/zcaymaz/Desktop/projects/dotnetassesmentAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zcaymaz/.nuget/NuGet/NuGet.Config"
